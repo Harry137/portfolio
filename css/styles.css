@@ -1,0 +1,42 @@
+h1 {
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 75px;
+  line-height: 75px;
+}
+
+.section {
+  padding: 25px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+h2.section-projects {
+  color:black;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 30px;
+  margin: 12px;
+  border: 2px solid rgba(11, 77, 175, 0.438);
+  padding: 4px;
+}
+
+.img {
+  width: 30%;
+  margin: 30px;
+}
+
+h2.section-bio {
+  color: red;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 30px;
+  margin: 12px;
+  border: 2px solid rgba(11, 77, 175, 0.438);
+  padding: 4px;
+}
+
+.hobbies {
+  color: yellowgreen;
+  margin: auto;
+}
